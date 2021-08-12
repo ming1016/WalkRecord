@@ -53,7 +53,7 @@
         [self.locationManager requestAlwaysAuthorization];// 前后台同时定位
     }
     [self.locationManager startUpdatingLocation];
-    
+    // start
     [self buildLabel];
     
     
